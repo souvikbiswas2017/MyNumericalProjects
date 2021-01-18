@@ -1,0 +1,9 @@
+f77 -o prepsq.exe prepsq.f
+f77 -o mvsq.exe mvsq.f
+f77 -o gssq.exe gssq.f
+f77 -o sorsq.exe sorsq.f
+./prepsq.exe
+./mvsq.exe>outmv
+./gssq.exe>outgs
+./sorsq.exe>outsor
+rm *.exe

@@ -1,0 +1,13 @@
+ Give endtime
+ endtime =   0.5000000000000000     
+ Give x_length,y_length
+ x_length,y_length =    1.000000000000000        1.000000000000000     
+ Give Uwall,Density,Viscosity
+ Uwall,Density,Viscosity =    1.000000000000000        1.000000000000000     
+   0.1000000000000000     
+ Give nxp,nyp
+ nxp,nyp =           64          64
+ Give iPrint
+ iPrint =            1
+ Process Time =    7.970212999999999     
+ Done

@@ -1,0 +1,5 @@
+0.5                           endtime
+1.0,1.0                       xl,yl
+1.0,1.0,0.1                   uwall,rho,meu
+64,64                         nxp,nyp
+1                             iPrint(1=print,0=noprint)
